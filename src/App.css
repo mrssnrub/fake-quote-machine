@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#quote-box {
+  border: solid 1px #738184;
+  padding: 25px;
+  background-color: #b6d2d8;
+  margin-top: 15%;
+  font-family: Verdana;
+  width: 50%;
+
+}
+
+#quote-box h1 {
+  font-weight: bold;
+
+}
+
+#quote-box p {
+  color: white;
+  font-weight: bold;
+}
+
+#tweet-quote {
+  background-color: #00aced;
+}
+
+#tweet-quote a {
+  padding: 5px;
+  color: white;
+
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
